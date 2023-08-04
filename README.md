@@ -1,2 +1,3 @@
-# LeCoinDesEnfants
-A set of open source piano pieces
+# Le Coin Des Enfants
+A set of open source piano pieces.
+
